@@ -20,24 +20,28 @@ We, the undersigned persons in the memorandum of Association have formed into an
 
 |Serial No|	Name of	Office Bearer in Block Letters | Designation | Occupation & Address	| Signature |
 |---------|:--------------------------------------:|-------------|----------------------|-----------|
-|		  |President		                       |             |                      |            |
-|		  |Vice-President						   |		 	 |						|            |
-|		  |General Secretary		|||
-|		  |Joint Secretary		|||
-|		  |Treasurer		|||
-|		  |Joint Treasurer	|||	
-|		  |Executive Member		|||
-|		  |Executive Member		|||
-|		  |Executive Member		|||
-|		  |Executive Member		|||
-|		  |Executive Member		|||
+|1.		  |         		                       |President             |                      |            |
+|2.		  |              						   |Vice-President		 	 |						|            |
+|3.		  |		                                   |General Secretary||
+|4.		  |										   |Joint Secretary||
+|5.		  |										   |Treasurer||
+|6.		  |	                                       |Joint Treasurer||	
+|7.		  |		                                   |Executive Member||
+|8.		  |		                                   |Executive Member||
+|9.		  |		                                   |Executive Member||
+|10		  |		                                   |Executive Member||
+|11.	  |		                                   |Executive Member||
+|12.	  |		                                   |Executive Member||
+|13.	  |		                                   |Executive Member||
+|14.	  |		                                   |Executive Member||
+|15.	  |		                                   |Executive Member||
 
 WITNESSES:
 
 |Serial No|	Name in Block Letters |  Occupation & Address	| Signature |
 |---------|:--------------------------------------:|-------------|-----------|
-|		  |		                       |                      |            |
-|		  |						   |		 	 |						|
+|1.		  |		                       |                      |            |
+|2.		  |						   |		 	 |						|
 
 :::note
 - “Certified that the Association is formed with no profit motive and no commercial activities involved in its working”

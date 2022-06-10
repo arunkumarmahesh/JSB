@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'JSB',
-  tagline: 'Jains Salzburg Owners welfare association',
+  title: 'UWAJSB',
+  tagline: 'Unity Welfare Association Jains Salzburg (Regd No: 339 of 2022)',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -43,7 +43,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'JSB',
+        title: 'UWAJSB',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -57,8 +57,8 @@ const config = {
           },
           {to: '/blog', label: 'FAQs', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            href: 'https://jainhousing.com/residential/ongoing-projects-hyderabad-bandlaguda-jagir/jains-salzburg',
+            label: 'Jains Salzburg',
             position: 'right',
           },
         ],
@@ -70,25 +70,25 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'By-Laws',
                 to: '/docs/intro',
               },
             ],
           },
           {
-            title: 'Community',
+            title: 'Social Media',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Instagram ',
+                href: 'https://www.instagram.com/accounts/login/?next=/jainhousingltd/',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Facebook',
+                href: 'https://www.facebook.com/JainHousing',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://twitter.com/JainHousing01',
               },
             ],
           },
@@ -96,17 +96,21 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Jains Housing ',
+                href: 'https://jainhousing.com/',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Linkedln',
+                href: 'https://www.linkedin.com/company/jain-housing-&-construction-ltd',
+              },
+              {
+                label: 'Youtube',
+                href: 'https://www.youtube.com/channel/UCMcOOIY_ok08DNvxnYb6NBA',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Arun Kumar Mahesh (Block B-506).`,
       },
       prism: {
         theme: lightCodeTheme,

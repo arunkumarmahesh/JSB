@@ -12,7 +12,7 @@ import DocusaurusImageUrl from '@site/static/img/JSS.png';
 
 ## PRELIMINARY
 
-- The name of the Association shall be **JAIN’S SALZBURG FLAT OWNER’S ASSOCIATION** which for the sake of brevity shall hereinafter be referred to as "The Association” and the same is registered with the Registrar of Societies under the provision of Andhra Pradesh Societies Registration Act  2001 (Act 35/2001).
+- The name of the Association shall be **Unity Welfare Association Jains Salzburg** which for the sake of brevity shall hereinafter be referred to as "The Association” and the same is registered with the Registrar of Societies under the provision of Andhra Pradesh Societies Registration Act  2001 (Act 35/2001).
 - The registered office of the Association shall be at the Office Room located at association room, in `B Block, Jain’s Salzburg`, situated at Survey No: 71 and 71(Part) in BANDLAGUDA JAGIR Village, Gandipet Mandal, Ranga Reddy District – 500086.
 
 ## INTERPRETATIONS

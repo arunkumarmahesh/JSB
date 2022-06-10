@@ -17,7 +17,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            JSB Bylaws - 30min ⏱️
+            UWAJSB Bylaws - 30min ⏱️
           </Link>
         </div>
       </div>
